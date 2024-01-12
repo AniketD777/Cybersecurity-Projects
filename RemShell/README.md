@@ -4,5 +4,5 @@ A simple tool to get a non-interactive remote access to a system by selecting mo
 2) Grant-Access: Allows shell access to the remote connected system.
 
 ## Basic File Transfer Features
-1) put <file>: To upload a file to the access granted system.
-2) get <file>: To download a file from the access granted system.
+1) put \<file\>: To upload a file to the access granted system.
+2) get \<file\>: To download a file from the access granted system.
