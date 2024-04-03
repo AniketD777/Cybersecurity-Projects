@@ -1,1 +1,1 @@
-This repository contains all the minor security projects I built during my cybersecurity learning phase.  
+This repository contains all the security projects I built during my cybersecurity learning phase.  
