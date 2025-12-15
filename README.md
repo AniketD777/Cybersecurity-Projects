@@ -1,1 +1,1 @@
-This repository contains all my security projects.
+This repository contains all my offensive and defensive security projects.
