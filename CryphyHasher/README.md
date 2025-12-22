@@ -1,4 +1,4 @@
-# A Basic Hashing Tool
+# A Simple Hashing Tool
 
 This script asks the user to choose the hashing type and hashes the string provided.
 
