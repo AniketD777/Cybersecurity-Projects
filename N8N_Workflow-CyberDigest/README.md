@@ -113,7 +113,10 @@ Link: <Link>
 ```
 
 <p align="center">
-  <img src="assets/CyberDigest-Group_MessageAlertSample.png" alt="n8n Workflow" width="100%">
+  <img src="assets/CyberDigest-Group_MessageAlertSample1.png" alt="n8n Workflow" width="100%">
+</p>
+<p align="center">
+  <img src="assets/CyberDigest-Group_MessageAlertSample2.png" alt="n8n Workflow" width="100%">
 </p>
 
 <p align="center">
