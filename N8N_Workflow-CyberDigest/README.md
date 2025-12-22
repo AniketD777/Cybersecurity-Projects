@@ -1,6 +1,6 @@
 # 🛡️ CyberDigest (N8N)
 
-An automated **cybersecurity news aggregation, deduplication, summarization, and Telegram alert pipeline** built using **n8n**, multiple RSS feeds, and a **local summarization LLM via HTTP**.
+An automated **cybersecurity news aggregation, deduplication, summarization, and Telegram alert pipeline** built using **N8N**, multiple RSS feeds, and a **local summarization LLM via HTTP**.
 
 This workflow collects cybersecurity news from trusted sources, removes duplicates, summarizes each article, and can deliver concise alerts to a Telegram channel or group.
 
@@ -120,7 +120,7 @@ Link: <Link>
   <em>Figure 2: Sample messages from N8N CyberDigest project workflow. (Telegram)</em>
 </p>
 
-## ⚙️ n8n Nodes Used
+## ⚙️ N8N Nodes Used
 
 - RSS Read
 - HTTP Request
