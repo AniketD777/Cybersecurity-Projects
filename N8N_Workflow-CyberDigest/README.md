@@ -111,7 +111,7 @@ Each alert is sent in the following format:
 
 Link: <Link>
 ```
-
+#### Sample Screenshots
 <p align="center">
   <img src="assets/CyberDigest-Group_MessageAlertSample1.png" alt="n8n Workflow" width="45%">
 </p>
