@@ -100,6 +100,8 @@ You are a senior cybersecurity analyst. Summarize the following article in 2–3
 ✔ No API keys
 ✔ Privacy friendly
 
+---
+
 ## 📢 Telegram Message Format
 
 Each alert is sent in the following format:
@@ -123,6 +125,8 @@ Link: <Link>
   <em>Figure 2: Sample messages from N8N CyberDigest project workflow. (Telegram)</em>
 </p>
 
+---
+
 ## ⚙️ N8N Nodes Used
 
 - RSS Read
@@ -133,11 +137,15 @@ Link: <Link>
 - Set / Edit Fields
 - Telegram
 
+---
+
 ## 🐳 Deployment
 
-- n8n (Docker / Self-hosted)
+- N8N (Docker / Self-hosted)
 - Local LLM (Docker-based, e.g., Ollama)
 - Telegram Bot API
+
+---
 
 ## 📌 Use Cases
 
@@ -146,3 +154,5 @@ Link: <Link>
 - Security research automation
 - Community Telegram channels
 - Personal threat intelligence dashboard
+
+---
