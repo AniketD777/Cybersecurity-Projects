@@ -1,4 +1,4 @@
-# 🛡️ CyberDigest (N8N)
+# 📰 CyberDigest (N8N)
 
 An automated **cybersecurity news aggregation, deduplication, summarization, and Telegram alert pipeline** built using **N8N**, multiple RSS feeds, and a **local summarization LLM via HTTP**.
 
